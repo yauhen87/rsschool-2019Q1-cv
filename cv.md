@@ -5,6 +5,21 @@ Mulyavina blvr. 8-25, Minsk, Belarus, 220005
 yauhen.vasilyeu@gmail.com
 D.O.B. 06.08.1987
 
+SUMMARY OF SKILLS
+
+• Automation • Lifecycle management • Systems engineering • Cross-cultural sensitivity • Public speaking skills • Active sales experience (several times best sales specialist at the «Adidas» store)
+
+• Experience of work in the energy-engineering branch since May 2012
+• Current professional field - automation, coordination and high level control system of the power stations
+• Other professional areas – international cooperation, presentations in the international format, negotiations, project management, R&D
+
+•	Team work in one of the leading roles in the international format in particularly important tasks for enterprises
+•	Master’s degree defense with an oral presentation in English (original basic text in Russian)
+•	Ability to interact with people in various sectors in Russian and English languages: scientific-research, teaching, design, construction, installation and alignment, active sales, organizational and sports events etc.;
+•	I am proud that I use my drawbacks efficiently, and associates are always ready to suggest my dignity.
+
+
+
 Education details:
 
 Higher education
