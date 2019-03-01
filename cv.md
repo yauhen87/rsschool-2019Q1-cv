@@ -5,6 +5,16 @@ Mulyavina blvr. 8-25, Minsk, Belarus, 220005
 yauhen.vasilyeu@gmail.com
 D.O.B. 06.08.1987
 
+PROFESSIONAL HONORS
+
+•	Diplomas, participation in international and national conferences and competitions
+
+
+PUBLICATIONS
+
+•	Publications and presentations on energy of wind, hydrogen power, high- voltage lines protection from birds, peat fires in the contaminated territories, the use of peaceful nuclear energy, the life cycle of process control systems.
+
+
 SUMMARY OF SKILLS
 
 • Automation • Lifecycle management • Systems engineering • Cross-cultural sensitivity • Public speaking skills • Active sales experience (several times best sales specialist at the «Adidas» store)
