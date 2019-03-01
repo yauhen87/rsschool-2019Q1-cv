@@ -5,6 +5,18 @@ Mulyavina blvr. 8-25, Minsk, Belarus, 220005
 yauhen.vasilyeu@gmail.com
 D.O.B. 06.08.1987
 
+Education details:
+
+Higher education
+2010 - Belarusian National Technical University, faculty of power engineering, Automation and control of technological processes. Diploma with honors. Diploma for scientific and research activities.
+
+Additional education:
+•	Trainee at the faculty on intern training NRU MPEI, Moscow in connection with completion of work on doctoral dissertation (entitled “Selection of the optimal structure of automation systems…”);
+•	2011-2014 - NRU MPEI, Moscow, postgraduate, chair of APCS (full course successful completion reference);
+•	2013-2014 - ANO "Corporate Academy of State Corporation" Rosatom", Moscow. Certificates- "Program of development for leaders and members of globalization "ROSATOM: GLOBAL Professionals», direction «lifecycle management of complex engineering objects" (a diploma to certify successful completion of the course);
+•	2010-2011 - National Technical University, Minsk, Belarus, direction- “Energy engineering”, Master’s degree (diploma of successful achievement of Master’s degree).
+
+
 EMPLOYMENT
 
 LLC "Promprivod"
