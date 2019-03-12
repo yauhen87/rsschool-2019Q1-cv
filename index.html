@@ -10,7 +10,7 @@
   <body>
     <header>
       <h1 class="link-to-cv">rsschool-2019Q1-cv</h1>
-      <img class="photo" src="XcNTui9dwZM.jpg" alt="Photo of Yauhen">
+      <img class="photo" id="logo" src="XcNTui9dwZM.jpg" alt="Photo of Yauhen">
     </header>
     <main>
       <section class="info">
@@ -129,7 +129,16 @@
       </section>
     </main>
     <footer>
-      
+      <form class="in-touch-form" action="#logo" method="">
+        <fieldset>
+          <legend>Type in feedback</legend>
+          <input class="input-text" type="text" placeholder="Name" required>
+          <input type="email" placeholder="Email" required>
+          <input type="password" placeholder="Type 1111" required>
+          <textarea rows="10" cols="30"></textarea>
+        </fieldset>
+        <button class="button-submit" type="submit">send</button>
+      </form>
     </footer>
   </body>
 </html>
