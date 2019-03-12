@@ -1,0 +1,16 @@
+body {
+  display: block;
+  width: 100%;
+  max-width: 1024px;
+  text-align-last: center;
+  background: #ccc;
+}
+
+.link-to-cv {
+  font-size: 32px;
+}
+
+.photo {
+  height: auto;
+  width: 250px;
+}
